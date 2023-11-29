@@ -19,7 +19,7 @@ const Coin = ({image,name,price,volume,change,market}) => {
                     )
                     }
                     <p className="coin-market">
-                    Mkt Cap: Rs.{market.toLocaleString()}
+                    Mkt Cap: Rskdlk.{market.toLocaleString()}
                     </p>
                 </div>
 
